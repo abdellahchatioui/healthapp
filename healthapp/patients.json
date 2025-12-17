@@ -1,0 +1,28 @@
+[
+  {
+    "firstName": "Mohamed",
+    "lastName": "Lo3mari",
+    "age": 19,
+    "eyes": {
+      "color": "Blue",
+      "visionState": "Short Sighted",
+      "isOpen": true,
+      "name": "Eyes"
+    },
+    "heart": {
+      "heartRate": 80,
+      "condition": "Good",
+      "name": "Heart"
+    },
+    "skin": {
+      "color": "White",
+      "condition": "Medieum",
+      "name": "Skin"
+    },
+    "stomach": {
+      "status": "Full",
+      "isDigesting": false,
+      "name": "Stomach"
+    }
+  }
+]
